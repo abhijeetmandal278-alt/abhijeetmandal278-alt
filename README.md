@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Abhijeet Mandal (@abhijeetmandal278-alt)
 🔭 I’m currently working on: Finalizing the OOOPs Banner App for different Level Practices and developing Campus Compass, a navigation tool using Java, Node.js, and Supabase.<br><br>👯 I’m looking to collaborate on: Open-source Java projects or student-led initiatives at SRMIST.<br><br>🤝 I’m looking for help with: Mastering advanced Git branching strategies and optimizing database queries.<br><br>🌱 I’m currently learning: Core Java fundamentals, operator precedence, and type conversion.<br><br>💬 Ask me about: Java logic, competitive programming, or custom RGB palettes for the EvoFox Blaze mouse.<br><br>⚡ Fun fact: I can manage multiple feature branches and Pull Requests without breaking the main build
 
 
